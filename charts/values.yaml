@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: himanshu162pnt723/goapp
-  tag: "20260102065321"
+  tag: "20260105130649"
   pullPolicy: IfNotPresent
 
 service:
